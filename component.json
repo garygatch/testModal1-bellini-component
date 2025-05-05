@@ -1,6 +1,6 @@
 {
   "type": "component",
-  "name": "testModal1",
+  "name": "testModal2",
   "children": [
     {
       "name": "div",
@@ -41,10 +41,62 @@
     },
     {
       "name": "div",
+      "nodeName": "div",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "ASb3WP"
+        }
+      ],
       "classList": [
         "modal-body"
       ],
-      "children": []
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [
+        {
+          "name": "Badge",
+          "nodeName": "bln-badge",
+          "elementId": "",
+          "attributes": [
+            {
+              "property": "data-id",
+              "value": "bX9dE1"
+            },
+            {
+              "property": "core",
+              "value": ""
+            }
+          ],
+          "classList": [],
+          "conditionalClasses": [],
+          "conditionalStyles": [],
+          "contentType": "text",
+          "displayExpression": "",
+          "events": {},
+          "iterate": {
+            "array": "",
+            "variable": "",
+            "trackByIndex": false
+          },
+          "styles": [],
+          "children": [],
+          "comments": "",
+          "type": "core-component",
+          "expressions": []
+        }
+      ],
+      "comments": ""
     },
     {
       "name": "div",
